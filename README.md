@@ -43,5 +43,5 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## Contact
 
 For any inquiries, please contact:
-Email: alishaamjad138@gmail.com
-GitHub: Alisha138
+- Email: alishaamjad138@gmail.com
+- GitHub: Alisha138
